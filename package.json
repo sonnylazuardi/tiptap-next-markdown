@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tiptap/extension-link": "^2.0.3",
     "@tiptap/pm": "^2.0.3",
     "@tiptap/react": "^2.0.3",
     "@tiptap/starter-kit": "^2.0.3",
@@ -18,10 +19,16 @@
     "autoprefixer": "10.4.14",
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.6",
+    "mdast-util-to-markdown": "^1.5.0",
     "next": "13.4.6",
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "remark-gfm": "^1.0.0",
+    "remark-parse": "^9.0.0",
+    "remark-stringify": "^9.0.1",
+    "scule": "^0.2.1",
+    "unified": "9.2.2",
     "tailwindcss": "3.3.2",
     "tiptap-markdown": "^0.7.4",
     "typescript": "5.1.3"
