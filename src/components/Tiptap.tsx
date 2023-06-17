@@ -13,7 +13,7 @@ const Tiptap = () => {
   const [markdown, setMarkdown] = React.useState(`
   # Hello world
   
-  This is a [link](https://tiptap-next-markdown.vercel.app/)
+  This is a [link](https://tiptap-next-markdown.vercel.app/) in markdown
   
   This is an example of a paragraph
   

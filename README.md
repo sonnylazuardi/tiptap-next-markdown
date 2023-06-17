@@ -2,7 +2,7 @@
 
 Tiptap Markdown Editor in Nextjs
 
-![ss](screenshot.png)
+![ss](screenshot.jpg)
 
 ## Getting Started
 
