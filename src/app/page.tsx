@@ -4,9 +4,9 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className='w-full'>
+      <article className='w-full prose lg:prose-xl text-white prose-headings:text-white prose-blockquote:text-white'>
         <Tiptap />
-      </div>
+      </article>
     </main>
   )
 }
